@@ -5,8 +5,13 @@ date: 2022-09-22 23:31:13 -0300
 categories: [home, cultura]
 tags: [home]  
 ---
-
-## Início
+<!doctype html>
+<html>
+  <head>
+    <title>Docs Cult Mais</title>
+  </head>
+  <body>
+    <p>## Início
 
 Nós podemos trabalhar em conjunto, desenvolver nossas capacidades para viver em harmonia com as Águas e a Natureza.
 
@@ -16,4 +21,6 @@ Este site visa experimentar formas de compartilhar e distribuir as ferramentas d
 
 ## Welcome
 
-We can work together, develop our abilities to live in harmony with the Waters and Nature.
+We can work together, develop our abilities to live in harmony with the Waters and Nature.</p>
+  </body>
+</html>
