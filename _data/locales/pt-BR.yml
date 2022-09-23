@@ -4,14 +4,14 @@
 
 layout:
   post: Post
-  category: Categoria
+  category: Tipo
   tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categorias
+  home: Início
+  categories: Tipos
   tags: Tags
   archives: Arquivos
   about: Sobre
@@ -75,5 +75,5 @@ post:
 
 # categories page
 categories:
-  category_measure: categorias
+  category_measure: tipos
   post_measure: posts
