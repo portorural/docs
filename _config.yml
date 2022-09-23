@@ -23,7 +23,7 @@ timezone:
 
 title: Docs Cult+                          # the main title
 
-tagline: Experimentando o compartilhamento   # it will display as the sub-title
+tagline: Experimentando o compartilhar   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Dentro ou perto da zona rural a divisão digital é insana, nos consome e consome o mundo. Aqui a gente vai mudar isso.
@@ -32,16 +32,16 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://docs.portorural.com.br'
 
 github:
-  username: github_username             # change to your github username
+  username: portorural             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: portorural            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Porto Rural
+  email: contato@portorural.com.br             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/portorural     # change to your twitter homepage
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /img/logo_portorural.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
